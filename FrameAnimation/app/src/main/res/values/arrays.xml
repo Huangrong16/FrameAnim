@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loading_anim">
+        <item>@drawable/frame_anim1</item>
+        <item>@drawable/frame_anim2</item>
+        <item>@drawable/frame_anim3</item>
+        <item>@drawable/frame_anim4</item>
+        <item>@drawable/frame_anim5</item>
+        <item>@drawable/frame_anim6</item>
+        <item>@drawable/frame_anim7</item>
+        <item>@drawable/frame_anim8</item>
+        <item>@drawable/frame_anim9</item>
+        <item>@drawable/frame_anim10</item>
+        <item>@drawable/frame_anim11</item>
+        <item>@drawable/frame_anim12</item>
+        <item>@drawable/frame_anim1</item>
+        <item>@drawable/frame_anim2</item>
+        <item>@drawable/frame_anim3</item>
+        <item>@drawable/frame_anim4</item>
+        <item>@drawable/frame_anim5</item>
+        <item>@drawable/frame_anim6</item>
+        <item>@drawable/frame_anim7</item>
+        <item>@drawable/frame_anim8</item>
+        <item>@drawable/frame_anim9</item>
+        <item>@drawable/frame_anim10</item>
+        <item>@drawable/frame_anim11</item>
+        <item>@drawable/frame_anim12</item>
+        <item>@drawable/frame_anim1</item>
+        <item>@drawable/frame_anim2</item>
+        <item>@drawable/frame_anim3</item>
+        <item>@drawable/frame_anim4</item>
+        <item>@drawable/frame_anim5</item>
+        <item>@drawable/frame_anim6</item>
+        <item>@drawable/frame_anim7</item>
+        <item>@drawable/frame_anim8</item>
+        <item>@drawable/frame_anim9</item>
+        <item>@drawable/frame_anim10</item>
+        <item>@drawable/frame_anim11</item>
+        <item>@drawable/frame_anim12</item>
+        <item>@drawable/frame_anim1</item>
+        <item>@drawable/frame_anim2</item>
+        <item>@drawable/frame_anim3</item>
+        <item>@drawable/frame_anim4</item>
+        <item>@drawable/frame_anim5</item>
+        <item>@drawable/frame_anim6</item>
+        <item>@drawable/frame_anim7</item>
+        <item>@drawable/frame_anim8</item>
+        <item>@drawable/frame_anim9</item>
+        <item>@drawable/frame_anim10</item>
+        <item>@drawable/frame_anim11</item>
+        <item>@drawable/frame_anim12</item>
+    </string-array>
+</resources>
