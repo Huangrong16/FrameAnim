@@ -12,10 +12,10 @@ import android.widget.ImageView;
 import java.lang.ref.SoftReference;
 
 /**
- * Copyright  : 2015-2033 Beijing Startimes Communication & Network Technology Co.Ltd
+ * Copyright  : haungr
  * Created by huangr on 2018/5/14.
- * ClassName  :
- * Description  :
+ * ClassName  :AnimationsContainer
+ * Description  :帧动画
  */
 
 
